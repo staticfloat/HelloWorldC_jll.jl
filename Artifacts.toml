@@ -1,113 +1,143 @@
 [[HelloWorldC]]
 arch = "aarch64"
-git-tree-sha1 = "45a9144a951283756310cafbe3e2a09a0cf84edf"
-libc = "glibc"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "bbee230d9bfe7e1c0fabc74bcc60d6e395049289e5fcf8156d28ad0576879160"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.aarch64-linux-gnu.tar.gz"
-[[HelloWorldC]]
-arch = "aarch64"
-git-tree-sha1 = "046eba264b9e7c20f4bc45d40bb71d0de3f7924c"
-libc = "musl"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "7237bd8a508b010b1a5339541e5f6a2b83ccd734d0f9eaaf9310456604925cf3"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.aarch64-linux-musl.tar.gz"
-[[HelloWorldC]]
-arch = "armv7l"
-git-tree-sha1 = "641b15987742c5f3cb0f63980ede0a0f528f6cf3"
-libc = "glibc"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "9a33be0638ec8954dca4547c9e7ac005e99c36f1271b29ef0e885e830cc2a6ca"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.armv7l-linux-gnueabihf.tar.gz"
-[[HelloWorldC]]
-arch = "armv7l"
-git-tree-sha1 = "d7e8839505be1bc4456380bcf75921b49acc1076"
-libc = "musl"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "5098b2600ce87a5f206e760ea9012f36e1dcd33a745358b07180815b7e37128a"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.armv7l-linux-musleabihf.tar.gz"
-[[HelloWorldC]]
-arch = "i686"
-git-tree-sha1 = "1caaa45a8f24dd61dc4f124756a8c46d0c9dd1c8"
-libc = "glibc"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "3f611d6a68cc13b8384c77521b3172d0a8a23a670333a6a6833b2dbb99a1f39f"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.i686-linux-gnu.tar.gz"
-[[HelloWorldC]]
-arch = "i686"
-git-tree-sha1 = "792fc649f522d77b567e1db82ab592ccb9bc6ba2"
-libc = "musl"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "d63e458e8496f9598522ebab124f916cbbe6d2f13bd229650538309fc2dfe915"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.i686-linux-musl.tar.gz"
-[[HelloWorldC]]
-arch = "i686"
-git-tree-sha1 = "c9bdcbd6c0e7945d6dd9f274f1b49f1ab23821c3"
-os = "windows"
-
-    [[HelloWorldC.download]]
-    sha256 = "372f67a64dfd993b9dac74b15677870aad982f0aa11ea478a493f89dfbcfe599"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.i686-w64-mingw32.tar.gz"
-[[HelloWorldC]]
-arch = "powerpc64le"
-git-tree-sha1 = "66da13ff3b456273e02278d51bcdc870a60af025"
-libc = "glibc"
-os = "linux"
-
-    [[HelloWorldC.download]]
-    sha256 = "1604448521845fcd0792426db9435484107e8bf5e8b7aad91f480dff5c1fe113"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.powerpc64le-linux-gnu.tar.gz"
-[[HelloWorldC]]
-arch = "x86_64"
-git-tree-sha1 = "5ccd11b53013abae665710f61626d672a4890003"
+git-tree-sha1 = "99e62a0c64cf6767a97cc805321ff4257917c285"
 os = "macos"
 
     [[HelloWorldC.download]]
-    sha256 = "1b0e536529dd424673ce5ee0e7cc1bae9128f1395ab36f965ee37f36c34943ae"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.x86_64-apple-darwin14.tar.gz"
+    sha256 = "4382388ce3497d14963a25f400f51f6cdd8354fba927550f071b9f90c74fea1c"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.aarch64-apple-darwin.tar.gz"
 [[HelloWorldC]]
-arch = "x86_64"
-git-tree-sha1 = "fd1be946aa15e007e8fcc673c5cf110bc33048c5"
+arch = "aarch64"
+git-tree-sha1 = "c82465bd6d0aa1369ff2fd961b73884d1f5de49a"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "aa11b97d3ff66897df376bf446bb9ba188cc8b643d6bf2c270859e3a4bbc3762"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.x86_64-linux-gnu.tar.gz"
+    sha256 = "5bfa84332c7ee485ca8e2eee216ad9fa77b2c43d5f261baa823e301b7c789ec4"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.aarch64-linux-gnu.tar.gz"
 [[HelloWorldC]]
-arch = "x86_64"
-git-tree-sha1 = "1a09e3378b2c754b6e65fe5afb4826e4fe8a8776"
+arch = "aarch64"
+git-tree-sha1 = "cb4b8c88778c6cd93b6df38ec5b95a2678434f5d"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "5bc5b7a79c887c3088f67ded939c42aeae91f768b500c7e0bcef39fe84750cab"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.x86_64-linux-musl.tar.gz"
+    sha256 = "924df1c2a386f79a2727a2f989393102649a24863214f2e88cb4a677d3d22e14"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.aarch64-linux-musl.tar.gz"
 [[HelloWorldC]]
-arch = "x86_64"
-git-tree-sha1 = "1ff60213d430580d3071a72ab337c57032492559"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "20a32b71145b67e708f63fb5880a7243727aec0f"
+libc = "glibc"
+os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "ad7edbc4b708e38cb5627c9ce2ca50e51291388a86308daca0f63ca837e5787c"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "6f0997b0aad387ba6e2402530642bb4ded85b0243460d2e4b13d94f2c8340a44"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.armv6l-linux-gnueabihf.tar.gz"
 [[HelloWorldC]]
-arch = "x86_64"
-git-tree-sha1 = "38eabed92b0646fe082c1b1aea2bf324cdd8ec55"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c1179604ea37fa66ee6d5d592c7bbfd1f20292c3"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "0aca47bce6f09c38a7939277a593deb988123fe59f7992225a1ede8e174f1b06"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.armv6l-linux-musleabihf.tar.gz"
+[[HelloWorldC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0a8e7b523ef6be31311aefe9983a488616e58201"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "f29f4da556d2b4ee9eaff7740aa0f9436406b75b0f1ec428e881a47ab7b7477b"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[HelloWorldC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ca94b4d87f1a276066a2994733142e35046c41dd"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "5fb4019d6d797e5e3860cfec90cab12f6865fa624e87b51c20220a44bb94846a"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.armv7l-linux-musleabihf.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "7063f79bec122879f7b497a1cad52171009b995f"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "40e6e46e50af3c5f3a700397ad3b724c0206315ddf050d3205570bf18d1b7a8b"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.i686-linux-gnu.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "b50220be02e9c839749f91a70694ae68c2712c8e"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "6aecc06cf803ad16703744610deb243a21b39e19ae1951a38977610881698f9e"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.i686-linux-musl.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "0f7597f042d16d438f9684e20ca57ea22e4e15c1"
 os = "windows"
 
     [[HelloWorldC.download]]
-    sha256 = "5617ac13a5536c818ea9a214cb9e5bb87d664b6ca7cc3cde3dd887133579d96c"
-    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.10+1/HelloWorldC.v1.0.10.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5f14f5ade1314e777432bd85cd075ae9d31e28352e646f90adf0444a7a54f76b"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.i686-w64-mingw32.tar.gz"
+[[HelloWorldC]]
+arch = "powerpc64le"
+git-tree-sha1 = "5e9c87fc4e3372c27a77061a49d97fa5002df0e4"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "e2a728b29124fc7408d6e47cc6fc943d0336d1386e56a3775a0665b34528881b"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.powerpc64le-linux-gnu.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "6535b0e10003ce22db71736128eeab24d03cfca4"
+os = "macos"
+
+    [[HelloWorldC.download]]
+    sha256 = "18e034dc69d36e5880ad3581896b1955cf6abc292077eb6b43049279a96cfdce"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.x86_64-apple-darwin.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "8c8251b0c21615bce0701995eded26ac7697b5cc"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "974f7e1d1cdbebad149e51fed4f1b7c6a0b5ccfa350f7d252dfcf66c2dbf9f63"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.x86_64-linux-gnu.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "cfaaf0517421585561e3b30dd6f53f6c14b2835f"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "25d3d6ecc753f4dbbcaab0db7b6c20b29b0a79b0c31f7a26a0cf18c365d27809"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.x86_64-linux-musl.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "5911d97f09156c8e4e78e48941da48575e095040"
+os = "freebsd"
+
+    [[HelloWorldC.download]]
+    sha256 = "5a27c8c476d399bd823e18cabd072f67e9b4b9904ddff3b553d0ed05c4ef7676"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.x86_64-unknown-freebsd.tar.gz"
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "59955b315ce95abd82f71d29389be3b734b14821"
+os = "windows"
+
+    [[HelloWorldC.download]]
+    sha256 = "47bbead5cbdfca1b23544b1b398e8a2194c78ab8a772ca3075084c4a9ab75fb7"
+    url = "https://github.com/staticfloat/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.1+2/HelloWorldC.v1.2.1.x86_64-w64-mingw32.tar.gz"
